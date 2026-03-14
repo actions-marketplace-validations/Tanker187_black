@@ -1,4 +1,4 @@
-name: "litty"
+name: "glossy"
 description: "The uncompromising Python code formatter."
 author: "Shannon Fletcher contributors to Black"
 inputs:
